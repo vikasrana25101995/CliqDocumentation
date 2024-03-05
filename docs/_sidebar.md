@@ -1,0 +1,11 @@
+<!-- docs/_sidebar.md -->
+- Frontend
+    - Pages
+        - * [Dashboard](./frontend/pages/dashboard/index.md)
+        - * [Preview](./frontend/pages/preview/index.md)
+        - * [Approvals](./frontend/pages/approvals/index.md)
+        - * [Clubs](./frontend/pages/clubs/index.md)
+        - * [Events](./frontend/pages/events/index.md)
+        - * [Users](./frontend/pages/users/index.md)
+        - * [Api Explorer](./frontend/pages/api_explorer/index.md)
+    - Components
