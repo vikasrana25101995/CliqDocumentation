@@ -1,11 +1,17 @@
 <!-- docs/_sidebar.md -->
 - Frontend
     - Pages
-        - * [Dashboard](./frontend/pages/dashboard/index.md)
-        - * [Preview](./frontend/pages/preview/index.md)
-        - * [Approvals](./frontend/pages/approvals/index.md)
-        - * [Clubs](./frontend/pages/clubs/index.md)
-        - * [Events](./frontend/pages/events/index.md)
-        - * [Users](./frontend/pages/users/index.md)
-        - * [Api Explorer](./frontend/pages/api_explorer/index.md)
+        - [Dashboard](./frontend/pages/dashboard/index.md)
+        - [Preview](./frontend/pages/preview/index.md)
+        - [Approvals](./frontend/pages/approvals/index.md)
+        - [Clubs](./frontend/pages/clubs/index.md)
+        - [Events](./frontend/pages/events/index.md)
+        - [Users](./frontend/pages/users/index.md)
+        - [Api Explorer](./frontend/pages/api_explorer/index.md)
     - Components
+        - [Dashboard Component](./frontend/components/dashboardComponent/index.md)
+        - [Active Users Component](./frontend/components/activeUsersComponent/index.md)
+        - [Total Clubs Over Time](./frontend/components/totalClubsOverTime/index.md)
+        - [Total Events Over Time](./frontend/components/totalEventsOverTime/index.md)
+        - [Total Messages Over Time](./frontend/components/totalMessagesOverTime/index.md)
+        - [Total Users Over Time](./frontend/components/totalUsersOverTime/index.md)
